@@ -1,6 +1,5 @@
 ## Olá! Eu sou o Arthur!!
 
-- 🔭 Hoje trabalho como assistente de Suporte dos sistemas ERP da Nérus. 
 - 🌱 Estudando atualmente o tratamento de dados. 
 - 📫 Entre em contato no meu e-mail: cossoarthur@gmail.com
 
